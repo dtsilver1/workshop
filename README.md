@@ -52,6 +52,10 @@ Any questions? Our team will be available to help you throughout the workshop!
 - Networking opportunities with like-minded individuals
 - Many more surprises!
 
+## Front-End Demo
+
+The front-end is now running at: [https://v0-op-rug-check.vercel.app/](https://v0-op-rug-check.vercel.app/)
+
 ## Join Our Community
 
 [Meet Ocean: Tokenized AI & Data](https://oceanprotocol.com/)
